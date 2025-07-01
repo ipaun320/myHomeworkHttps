@@ -1,5 +1,5 @@
 ##
-## Docker Cow
+## Docker Cow Test
 ##
 $the_cow = <<EOC;
     $thoughts
